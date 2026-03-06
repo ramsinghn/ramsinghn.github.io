@@ -1,2 +1,2 @@
-# ramsinghn.github.io
-Github Pages User repo for ramsinghn
+# Ramsingh Tejsingh Naik
+This is a placeholder site (Github Pages User repo) for Ram.
